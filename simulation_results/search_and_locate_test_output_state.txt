@@ -1,0 +1,48 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model search_and_locate is threatId: 0 & latitude: 0 & longitude: 0
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model search_and_locate is threatId: 0 & latitude: 0 & longitude: 0
+00:00:00:000
+State for model input_reader is next time: 00:00:05:000
+State for model search_and_locate is threatId: 1 & latitude: 11.9252 & longitude: 136.033
+00:00:05:000
+State for model input_reader is next time: 00:00:50:000
+State for model search_and_locate is threatId: 2 & latitude: 47.9958 & longitude: 39.4908
+00:00:10:000
+State for model input_reader is next time: 00:00:50:000
+State for model search_and_locate is threatId: 2 & latitude: 47.9958 & longitude: 39.4908
+00:00:55:000
+State for model input_reader is next time: 00:00:20:000
+State for model search_and_locate is threatId: 3 & latitude: 61.1299 & longitude: 122.305
+00:01:00:000
+State for model input_reader is next time: 00:00:20:000
+State for model search_and_locate is threatId: 3 & latitude: 61.1299 & longitude: 122.305
+00:01:15:000
+State for model input_reader is next time: 00:00:25:000
+State for model search_and_locate is threatId: 3 & latitude: 0 & longitude: 0
+00:01:40:000
+State for model input_reader is next time: 00:00:30:000
+State for model search_and_locate is threatId: 5 & latitude: 46.7955 & longitude: 149.591
+00:01:45:000
+State for model input_reader is next time: 00:00:30:000
+State for model search_and_locate is threatId: 5 & latitude: 46.7955 & longitude: 149.591
+00:02:10:000
+State for model input_reader is next time: 00:00:30:000
+State for model search_and_locate is threatId: 6 & latitude: 4.9062 & longitude: 95.3931
+00:02:15:000
+State for model input_reader is next time: 00:00:30:000
+State for model search_and_locate is threatId: 6 & latitude: 4.9062 & longitude: 95.3931
+00:02:40:000
+State for model input_reader is next time: 00:00:10:000
+State for model search_and_locate is threatId: 7 & latitude: 0.792067 & longitude: 69.0765
+00:02:45:000
+State for model input_reader is next time: 00:00:10:000
+State for model search_and_locate is threatId: 7 & latitude: 0.792067 & longitude: 69.0765
+00:02:50:000
+State for model input_reader is next time: inf
+State for model search_and_locate is threatId: 8 & latitude: 37.632 & longitude: 123.65
+00:02:55:000
+State for model input_reader is next time: inf
+State for model search_and_locate is threatId: 8 & latitude: 37.632 & longitude: 123.65

@@ -1,0 +1,42 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model capture_image_location is threatId: 0 & latitude: 0 & longitude: 0 & threat_captured: false & threat_image: 
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model capture_image_location is threatId: 0 & latitude: 0 & longitude: 0 & threat_captured: false & threat_image: 
+00:00:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model capture_image_location is threatId: 1 & latitude: 4.65 & longitude: 1.67 & threat_captured: true & threat_image: IMAGE_1
+00:00:05:000
+State for model input_reader is next time: 00:00:10:000
+State for model capture_image_location is threatId: 1 & latitude: 4.65 & longitude: 1.67 & threat_captured: true & threat_image: IMAGE_1
+00:00:10:000
+State for model input_reader is next time: 00:00:50:000
+State for model capture_image_location is threatId: 2 & latitude: 2.33 & longitude: 4.34 & threat_captured: true & threat_image: IMAGE_2
+00:00:15:000
+State for model input_reader is next time: 00:00:50:000
+State for model capture_image_location is threatId: 2 & latitude: 2.33 & longitude: 4.34 & threat_captured: true & threat_image: IMAGE_2
+00:01:00:000
+State for model input_reader is next time: 00:00:20:000
+State for model capture_image_location is threatId: 3 & latitude: 0 & longitude: 0 & threat_captured: false & threat_image: NULL
+00:01:20:000
+State for model input_reader is next time: 00:00:35:000
+State for model capture_image_location is threatId: 4 & latitude: 8.8 & longitude: 6 & threat_captured: true & threat_image: IMAGE_4
+00:01:25:000
+State for model input_reader is next time: 00:00:35:000
+State for model capture_image_location is threatId: 4 & latitude: 8.8 & longitude: 6 & threat_captured: true & threat_image: IMAGE_4
+00:01:55:000
+State for model input_reader is next time: 00:00:20:000
+State for model capture_image_location is threatId: 5 & latitude: 0 & longitude: 0 & threat_captured: false & threat_image: NULL
+00:02:15:000
+State for model input_reader is next time: 00:00:50:000
+State for model capture_image_location is threatId: 6 & latitude: 8.12 & longitude: 2.37 & threat_captured: true & threat_image: IMAGE_6
+00:02:20:000
+State for model input_reader is next time: 00:00:50:000
+State for model capture_image_location is threatId: 6 & latitude: 8.12 & longitude: 2.37 & threat_captured: true & threat_image: IMAGE_6
+00:03:05:000
+State for model input_reader is next time: inf
+State for model capture_image_location is threatId: 7 & latitude: 7.29 & longitude: 6.33 & threat_captured: true & threat_image: IMAGE_7
+00:03:10:000
+State for model input_reader is next time: inf
+State for model capture_image_location is threatId: 7 & latitude: 7.29 & longitude: 6.33 & threat_captured: true & threat_image: IMAGE_7

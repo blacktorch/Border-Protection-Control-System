@@ -1,0 +1,1 @@
+cd bin; ./HOVERING_TEST; cd ../

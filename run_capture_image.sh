@@ -1,0 +1,1 @@
+cd bin; ./CAPTURE_IMAGE_LOCATION_TEST; cd ../

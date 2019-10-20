@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a50ecfd-3a09-4b80-aed5-4262b4c860d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/BPCS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/include/EIRational.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/include/NDTime.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/test/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/test/main-test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DESTimes/test/ndtime_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModelDescription.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomics/capture_image_and_location.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomics/hovering.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atomics/search_and_locate_threat.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/.codecov.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/BSD-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/Jamroot.jam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/CleanDirectoryList.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/CodeCoverage.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/CorrectWindowsPaths.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/CppcheckTargets.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/DisableCompilerFlag.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/DoxygenTargets.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/DoxygenTargets.doxyfile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/EnableExtraCompilerWarnings.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/EnableProfiling.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FileCopyTargets.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindCVODE.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindEigen3.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindFFTW.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindGDB.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindGSL.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindGitHub.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindITAPS.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindLAPACKLibs.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindLIS.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindMKL.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindMSVCRedist.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindMsysGit.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindNetCDF.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindOpenSG.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindOpenSGSupportlibs.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindPETSc.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindPackageMultipass.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindQVTK.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindShapelib.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/FindVRPN.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/Findcppcheck.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/Findcppcheck.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/Findcutil.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/Findquatlib.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/GetCPUDetails.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/GetCompilerInfoString.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/GetGitRevisionDescription.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/GetGitRevisionDescription.cmake.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/LICENSE_1_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/LibFindMacros.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/Licensing.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/ListAllCMakeVariableValues.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/ListCombinations.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/ListFilter.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/MSVCMultipleProcessCompile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/MSVCStaticRuntime.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/MSVCVerboseLinking.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/OptionRequires.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/PrintVariables.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/ProcessorCount.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/ResetConfigurations.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/ResolveCompilerPaths.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/SetDefaultBuildType.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/UseBackportedModules.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/WarningDev.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.0-modules/features/SelectLibraryConfigurations.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.1-modules/patchctestbug10149/CTest.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.1-modules/patchctestbug10149/CTestScriptMode.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.1-modules/patchctestbug10149/CTestTargets.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.3-modules/FixWinInstallPrefix.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.3-modules/autoinclude.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.4-modules/ImproveEclipseGCCErrors.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.4-modules/autoinclude.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.8.4-modules/boost/FindBoost.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.9.0-modules/RequireOutOfSourceBuild.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cmake-2.9.0-modules/autoinclude.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cotire-license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/cotire.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/module-docs/Example-FindMyPackage.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/module-docs/Example-FindMySimplePackage.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/package-licensing/Boost.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/package-licensing/Eigen.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/cmake-modules/package-licensing/Qt-LGPL.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/example/Jamfile.jam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/example/main-clock.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/example/main-count-fives.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/devs/accumulator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/devs/generator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/devs/passive.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/pdevs/accumulator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/pdevs/filter_first_output.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/pdevs/generator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/pdevs/iestream.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/pdevs/int_generator_one_sec.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/pdevs/passive.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/basic_model/pdevs/reset_generator_five_sec.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/concept/atomic_model_assert.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/concept/concept_helpers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/concept/coupled_model_assert.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/common_helpers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/concurrency_helpers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_coordinator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_dynamic_coordinator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_dynamic_engine.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_dynamic_engine_helpers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_dynamic_link.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_dynamic_runner.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_dynamic_simulator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_engine_helpers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_runner.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/engine/pdevs_simulator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/logger/common_loggers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/logger/common_loggers_helpers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/logger/dynamic_common_loggers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/logger/logger.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/logger/tuple_to_ostream.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/coupling.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/dynamic_atomic.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/dynamic_coupled.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/dynamic_message_bag.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/dynamic_model.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/dynamic_model_translator.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/dynamic_models_helpers.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/message_bag.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/message_box.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/include/cadmium/modeling/ports.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/Jamfile.jam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/Jamfile.jam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_inports_not_a_tuple_in_atomic_model_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_external_transition_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_input_ports_in_atomic_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_internal_transition_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_output_function_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_output_ports_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_state_type_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_state_variable_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_missing_time_advance_function_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_outports_not_a_tuple_in_atomic_model_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_repeated_input_ports_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/devs_repeated_output_ports_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_coordinator_of_no_coupled_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_failure_to_map_types_in_EIC_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_failure_to_map_types_in_EOC_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_failure_to_map_types_in_IC_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_inports_not_a_tuple_in_atomic_model_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_inports_not_a_tuple_in_coupled_model_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_atomic_model_simulator_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_confluence_transition_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_external_transition_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_input_ports_in_atomic_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_internal_transition_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_output_function_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_output_ports_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_state_type_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_state_variable_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_missing_time_advance_function_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_outports_not_a_tuple_in_atomic_model_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_outports_not_a_tuple_in_coupled_model_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_repeated_input_ports_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_repeated_output_ports_fail_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compile-fails/pdevs_submodel_is_not_a_model_fails_compile_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/Jamfile.jam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/devs_generator_atomic_check_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/devs_passive_atomic_check_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coordinator_of_coupled_of_atomics_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coordinator_of_coupled_of_mixed_models_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coordinator_of_empty_coupled_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coupled_of_all_atomics_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coupled_of_all_coupleds_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coupled_of_atomic_models.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coupled_of_mixed_models.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_coupled_of_mixed_models_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_empty_coupled_model.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_empty_coupled_model_is_a_valid_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_generator_atomic_check_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_passive_atomic_check_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_simulator_provide_types_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_valid_atomic_check_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test-compile/compiles/pdevs_valid_atomic_with_multiple_ports_check_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/Jamfile.jam" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/devs_accumulator_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/devs_generator_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/devs_passive_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/logger_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/main-test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_accumulator_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_boxes_cleanup_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_coordinator_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_dynamic_atomic_helpers_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_dynamic_atomic_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_dynamic_coordinator_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_dynamic_engine_helpers_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_dynamic_model_helpers_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_dynamic_runner_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_dynamic_simulator_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_engine_helper_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_generator_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_passive_model_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_runner_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/pdevs_simulator_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cadmium/test/tuple_to_ostream_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/threat_details.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/threat_details.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_data/capture_image_location_input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_data/hovering_input_test_in_id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_data/hovering_input_test_threat_details_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_data/input_bpcs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_data/input_uav.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_data/search_and_locate_input_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_bpcs.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_capture_image.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_hovering_test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_search_and_locate.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_uav.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/BPCS_output_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/BPCS_output_state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/capture_image_location_test_output_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/capture_image_location_test_output_state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/hovering_test_output_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/hovering_test_output_state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/search_and_locate_test_output_messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulation_results/search_and_locate_test_output_state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main_capture_image_location_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main_hovering_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main_search_and_locate_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top_model/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/NDTime.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/iestream.hpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BPCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BPCS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a50ecfd-3a09-4b80-aed5-4262b4c860d4" name="Default Changelist" comment="" />
+      <created>1571535832294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571535832294</updated>
+      <workItem from="1571535833539" duration="714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="714000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="963" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

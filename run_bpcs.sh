@@ -1,0 +1,1 @@
+cd bin; ./BORDER_PROTECTION_CONTROL_SYSTEM ../input_data/input_bpcs.txt; cd ../

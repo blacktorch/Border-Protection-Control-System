@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="BorderProtectionControlSystem" type="coupled" description="A border protection control system using a UAV">
+		<Inputs>
+			<Port name="intrusion-detection" type="" description=""/>
+
+		</Inputs>
+		<Outputs>
+			<Port name="Threat-details-received" type="" description=""/>
+
+		</Outputs>
+		<Files>
+			<File name="main.cpp" type="" location="top_model"/>
+
+		</Files>
+	</Model>
+
+	<Model name="UAV" type="coupled" description="UAV that protects the restricted area">
+		<Inputs>
+			<Port name="inId" type="" description=""/>
+
+		</Inputs>
+		<Outputs>
+			<Port name="Send-threat-details" type="" description=""/>
+	
+		</Outputs>
+		<Files>
+			<File name="main.cpp" type="" location="top_model"/>
+
+		</Files>
+	</Model>
+
+	<Model name="Hovering" type="atomic" description="Hovering state of the UAV">
+		<Inputs>
+			<Port name="inId" type="" description=""/>
+			<Port name="Threat-detials-sent" type="" description=""/>
+
+		</Inputs>
+		<Outputs>
+			<Port name="UAV-alerted" type="" description=""/>
+	
+		</Outputs>
+		<Files>
+			<File name="hovering.hpp" type="" location="atomics"/>
+
+		</Files>
+	</Model>
+	<Model name="SearchAndLocateThreat" type="atomic" description="Searching and locating threat">
+		<Inputs>
+			<Port name="UAV-alerted" type="" description=""/>
+
+		</Inputs>
+		<Outputs>
+			<Port name="Found" type="" description=""/>
+	
+		</Outputs>
+		<Files>
+			<File name="search_and_locate_threat.hpp" type="" location="atomics"/>
+
+		</Files>
+	</Model>
+	<Model name="CaptureImageAndLocation" type="atomic" description="Captures threats image and location">
+		<Inputs>
+			<Port name="Found" type="" description=""/>
+
+		</Inputs>
+		<Outputs>
+			<Port name="Threat-details-sent" type="" description=""/>
+			<Port name="Send-threat-details" type="" description=""/>
+	
+		</Outputs>
+		<Files>
+			<File name="capture_image_and_location.hpp" type="" location="atomics"/>
+
+		</Files>
+	</Model>
+
+</Models>
